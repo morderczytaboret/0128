@@ -1,0 +1,13 @@
+ 
+ofa 
+ dua9f ddd
+  jjj
+
+
+  git add
+  git status
+ -d-ad0-0
+ vi
+ :wq
+ i
+
